@@ -1,0 +1,12 @@
+{
+  "name": "ads-skipper",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "Skip and hide ads on Youtube",
+  "content_scripts": [{
+    "matches": ["https://www.youtube.com/*"],
+    "js": [
+      "skip.js"
+    ]
+  }]
+}
