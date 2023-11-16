@@ -5,6 +5,7 @@
     'ytd-in-feed-ad-layout-renderer', // 検索時に出てくる広告
     'ytd-promoted-sparkles-web-renderer', // 動画リスト上部の広告
     '.ytd-player-legacy-desktop-watch-ads-renderer', // 広告動画を再生した場合に動画リスト上部に出てくる広告
+    'ytd-ad-slot-renderer', // トップ上部の広告
   ];
 
   // 動画以外の広告を非表示
